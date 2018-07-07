@@ -3,6 +3,20 @@ intents:
   - goodbye
   - query_event
 
+entities:
+  - vtype
+  - time
+  - genre
+
+slots:
+  time:
+    type: text
+  vtype:
+    type: text
+  genre:
+    type: text
+
+
 actions:
   - utter_greet
   - utter_welcome_prompt
