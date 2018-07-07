@@ -1,0 +1,46 @@
+intents:
+  - greet
+  - goodbye
+  - query_event
+
+actions:
+  - utter_greet
+  - utter_welcome_prompt
+  - utter_goodbye
+  - utter_aufgeben
+  - utter_query_event
+  - utter_what_can_i_do
+
+templates:
+  utter_greet:
+    - "Hallo!"
+    - "Hi!"
+    - "Servus.."
+    - "Guten Tag"
+
+  utter_query_event:
+    - "Diese Veranstaltungen gibt es"
+    - "ich habe folgendes gefudnen"
+    - "Für deine Anfrage hab ich folgndes gefunden"
+
+  utter_welcome_prompt:
+    - "herzlich willkommen auf dem Veranstaltungskalender Passau."
+
+  utter_what_can_i_do:
+    - "Für was interessierst du dich?"
+
+  utter_goodbye:
+    - "Ciao!"
+    - "Auf Wiedersehen!"
+    - "bye bye.."
+
+  utter_aufgeben:
+    - "Pfffft...."
+
+  utter_inform_concert:
+    - "Folgende Konzerte stehen an: Rihanna Open Air Tour, Toten Hosen"
+    - "Rihanna spielt Open Air auf der Kuhwiese und die Toten Hosen rocken den Bunker!"
+
+  utter_inform_fest:
+    - "Die Folgenden Feste finden statt: Schützenfest, KneipenTour durch Passau und Tanz in den Mai"
+    - "ich bin ein Fest"
