@@ -22,8 +22,8 @@ actions:
   - utter_welcome_prompt
   - utter_goodbye
   - utter_aufgeben
-  - utter_query_event
   - utter_what_can_i_do
+  - backend.actions.QueryVeranstaltungenAction
 
 templates:
   utter_greet:
@@ -31,11 +31,6 @@ templates:
     - "Hi!"
     - "Servus.."
     - "Guten Tag"
-
-  utter_query_event:
-    - "Diese Veranstaltungen gibt es"
-    - "ich habe folgendes gefudnen"
-    - "Für deine Anfrage hab ich folgndes gefunden"
 
   utter_welcome_prompt:
     - "herzlich willkommen auf dem Veranstaltungskalender Passau."
@@ -58,3 +53,24 @@ templates:
   utter_inform_fest:
     - "Die Folgenden Feste finden statt: Schützenfest, KneipenTour durch Passau und Tanz in den Mai"
     - "ich bin ein Fest"
+
+  utter_nothing_found:
+    - "Leider habe ich keine Ergebnise dazu gefunden"
+    - "Leider konnten keine Ergebnise gefunden werden"
+    - "Bisher sind keine Veranstaltungen dazu eingetragen"
+    - "Es sind keine Veranstaltungen dazu bekannt"
+
+  utter_one_found:
+    - "Ich habe dazu ein Ergebnis gefunden: "
+    - "Du hast Glück, ich habe genau ein Ergebnis gefunden: "
+    - "Yeah! Ich habe eine passende Veranstaltung gefunden: "
+    - "Es wurde diese Veranstaltung gefunden: Ich wünsche dir viel Spaß"
+
+  utter_more_found:
+    - "Oh Yeah! Hier sind ein paar Veranstaltungen!: "
+    - "Hier sind alle Veranstaltungen die ich gefunden habe: "
+    - "Hier sind alle Ergebnise die ich gefunden habe: "
+    - "Hier kannst du alle Veranstaltungen sehen, die ich für dich gefunden habe: "
+
+  utter_result:
+    - "-- {name}  vom {vtype} am {time} vom {genre}"

@@ -238,16 +238,118 @@
 - Suche mir das [Handballjugend](genre) der Bösen Jungs
 - Spielen die Bösen Jungs diesen Monat noch ein [Handballjugend](genre)?
 - Wie findest du das [Teamevent](genre)?
-- Kannst du mir das [Spielplan](genre) zeigen?
+- Kannst du mir das [Spielplan](vtype) zeigen?
 - Machst du diese [Volleyballmannschaft](genre)?
-- Was kommt nach dem [Teamevent](genre)?
+- Was kommt nach dem [Teamevent](vtype)?
 
-## synonym:Konzert
-- Konzerte
-- Musik
-- Konzert
-- Music
-- Festival
+- Welche [Volleyballmanschaft](genre) spielt dieses Wochenende?
+- Spielen die [Volleyballmanschaft](genre) Ladys in Black heute?
+- Die [Volleyballmanschaft](genre) Ladys in Black gefällt mir?
+- Hat die [Volleyballmanschaft](genre) Ladys in black ein [Volleyball](vtype) Spiel?
+- Welche [Volleyballmanschaft](genre) hat das nächste [Sportevent](vtype)?
+- Suche mir alle [Volleyballmanschaft](genre) die heute spielen
+- Ich suche nach [Volleyballmanschaft](genre) die am Wochenende spielen
+- Welche [Volleyballmanschaft](genre) spielt dieses Wochenende?
+- Spielen die [Volleyballmanschaft](genre) Ladys in Black heute?
+- Die [Volleyballmanschaft](genre) Ladys in Black gefällt mir?
+- Hat die [Volleyballmanschaft](genre) Ladys in black ein [Volleyball](vtype) Spiel?
+- Welche [Volleyballmanschaft](genre) hat das nächste [Sportevent](vtype)?
+- Suche mir alle [Volleyballmanschaft](genre) die heute spielen
+- Ich suche nach [Volleyballmanschaft](genre) die am Wochenende spielen
+- Welche [Volleyballmanschaft](genre) spielt dieses Wochenende?
+- Spielen die [Volleyballmanschaft](genre) Ladys in Black heute?
+- Die [Volleyballmanschaft](genre) Ladys in Black gefällt mir?
+- Hat die [Volleyballmanschaft](genre) Ladys in black ein [Volleyball](vtype) Spiel?
+- Welche [Volleyballmanschaft](genre) hat das nächste [Sportevent](vtype)?
+- Suche mir alle [Volleyballmanschaft](genre) die heute spielen
+- Ich suche nach [Volleyballmanschaft](genre) die am Wochenende spielen
+
+- Gibt es [Beachvolleyball](genre) im Winter?
+- Such mir alle [Beachvolleyball](genre) Spiele
+- ISt die [Beachvolleyball](genre) Saison zuende?
+- Gibt es dieses Jahr noch [Beachvolleyball](genre) Spiele?
+- Wann ist das nächste [Beachvolleyball](genre) Spiel?
+- Gibt es [Beachvolleyball](genre) Spiele in meiner Nähe?
+- Wann ist ein [Beachvolleyball](genre) [Sportevent](vtype)?
+- Suche mir alle [Beachvolleyball](genre) [Sportevent](vtype)
+- Bitte finde alle [Beachvolleyball](genre) [Sportevents](vtype)?
+- Gibt es [Beachen](genre) im Winter?
+- Such mir alle [Beachen](genre) Spiele
+- ISt die [Beachen](genre) Saison zuende?
+- Gibt es dieses Jahr noch [Beachen](genre) Spiele?
+- Wann ist das nächste [Beachen](genre) Spiel?
+- Gibt es [Beachen](genre) Spiele in meiner Nähe?
+- Wann ist ein [Beachen](genre) [Sportevent](vtype)?
+- Suche mir alle [Beachen](genre) [Sportevent](vtype)
+- Bitte finde alle [Beachen](genre) [Sportevents](vtype)?
+- Gibt es [Beachvolleyball](genre) im Winter?
+- Such mir alle [Beachvolleyball](genre) Spiele
+- ISt die [Beachvolleyball](genre) Saison zuende?
+- Gibt es dieses Jahr noch [Beachvolleyball](genre) Spiele?
+- Wann ist das nächste [Beachvolleyball](genre) Spiel?
+- Gibt es [Beachvolleyball](genre) Spiele in meiner Nähe?
+- Wann ist ein [Beachvolleyball](genre) [Sportevent](vtype)?
+- Suche mir alle [Beachvolleyball](genre) [Sportevent](vtype)
+- Bitte finde alle [Beachvolleyball](genre) [Sportevents](vtype)?
+- Gibt es [Beachen](genre) im Winter?
+- Such mir alle [Beachen](genre) Spiele
+- ISt die [Beachen](genre) Saison zuende?
+- Gibt es dieses Jahr noch [Beachen](genre) Spiele?
+- Wann ist das nächste [Beachen](genre) Spiel?
+- Gibt es [Beachen](genre) Spiele in meiner Nähe?
+- Wann ist ein [Beachen](genre) [Sportevent](vtype)?
+- Suche mir alle [Beachen](genre) [Sportevent](vtype)
+- Bitte finde alle [Beachen](genre) [Sportevents](vtype)?
+- Gibt es [Beachvolleyball](genre) im Winter?
+- Such mir alle [Beachvolleyball](genre) Spiele
+- ISt die [Beachvolleyball](genre) Saison zuende?
+- Gibt es dieses Jahr noch [Beachvolleyball](genre) Spiele?
+- Wann ist das nächste [Beachvolleyball](genre) Spiel?
+- Gibt es [Beachvolleyball](genre) Spiele in meiner Nähe?
+- Wann ist ein [Beachvolleyball](genre) [Sportevent](vtype)?
+- Suche mir alle [Beachvolleyball](genre) [Sportevent](vtype)
+- Bitte finde alle [Beachvolleyball](genre) [Sportevents](vtype)?
+- Gibt es [Beachen](genre) im Winter?
+- Such mir alle [Beachen](genre) Spiele
+- ISt die [Beachen](genre) Saison zuende?
+- Gibt es dieses Jahr noch [Beachen](genre) Spiele?
+- Wann ist das nächste [Beachen](genre) Spiel?
+- Gibt es [Beachen](genre) Spiele in meiner Nähe?
+- Wann ist ein [Beachen](genre) [Sportevent](vtype)?
+- Suche mir alle [Beachen](genre) [Sportevent](vtype)
+- Bitte finde alle [Beachen](genre) [Sportevents](vtype)?
+- Welche [Veranstaltung](vtype) ist besser, [Konzert](genre) oder [Spiel](genre)?
+- Ist [Festval](genre) schon vorbei?
+- Kannst du mir eine [Veranstaltung](vtype) in Juli vorstellen?
+- Wann genau findet [Gallerie](genre) statt?
+- Wie läuft die [Autos-Ausstellung](genre)
+- Zeig mir alle [Sportevents](vtype) ab sofort
+- Wie sieht der [Spielplan](vtype) der [Handballjugend](genre) für die kommende Woche aus
+- Kannst du [Volleyball](genre) spielen?
+- Sag mir was über das [Spiel](genre)
+- Welche [Mannschaft](vtype) spielt das nächste [Fussball](vtype) -Spiel
+- Welche [Veranstaltung](vtype) ist besser, [Konzert](genre) oder [Spiel](genre)?
+- Ist [Festval](genre) schon vorbei?
+- Kannst du mir eine [Veranstaltung](vtype) in Juli vorstellen?
+- Wann genau findet [Gallerie](genre) statt?
+- Wie läuft die [Autos-Ausstellung](genre)
+- Zeig mir alle [Sportevents](vtype) ab sofort
+- Wie sieht der [Spielplan](vtype) der [Handballjugend](genre) für die kommende Woche aus
+- Kannst du [Volleyball](genre) spielen?
+- Sag mir was über das [Spiel](genre)
+- Welche [Mannschaft](vtype) spielt das nächste [Fussball](vtype) -Spiel
+- Welche [Veranstaltung](vtype) ist besser, [Konzert](genre) oder [Spiel](genre)?
+- Ist [Festval](genre) schon vorbei?
+- Kannst du mir eine [Veranstaltung](vtype) in Juli vorstellen?
+- Wann genau findet [Gallerie](genre) statt?
+- Wie läuft die [Autos-Ausstellung](genre)
+- Zeig mir alle [Sportevents](vtype) ab sofort
+- Wie sieht der [Spielplan](vtype) der [Handballjugend](genre) für die kommende Woche aus
+- Kannst du [Volleyball](genre) spielen?
+- Sag mir was über das [Spiel](genre)
+- Welche [Mannschaft](vtype) spielt das nächste [Fussball](vtype) -Spiel
+
+
 
 ## synonym:Handball
 - Handballturnier
@@ -259,6 +361,7 @@
 - Beachen
 
 ## synonym:Sportevent
+- Sportevents
 - Sportveranstaltungen
 - Viewing
 - Spiel
@@ -271,3 +374,12 @@
 ## synonym:Ausstellung
 - Galerie
 - Messe
+- Stadtgalerie
+
+
+## synonym:Konzert
+- Konzerte
+- Musik
+- Konzert
+- Music
+- Festival

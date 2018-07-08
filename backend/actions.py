@@ -33,8 +33,10 @@ class QueryVeranstaltungenAction(Action):
         return snippet
 
     def run(self, dispatcher, tracker, domain):
+        dispatcher.utter_message("QueryVeranstaltung started")
+
         ## TODO variable aus slot werten holen. Variable Namen und slot namen definieren
-        slots = []
+        slots = {}
         slots['vtype'] = tracker.get_slot("vtype")
         slots['genre'] = tracker.get_slot("genre")
         slots['time'] = tracker.get_slot("time")
@@ -46,32 +48,34 @@ class QueryVeranstaltungenAction(Action):
                 dispatcher.utter_message("val "+s)
         ## TODO sql query bauen mit slot werte
 
-        sql = "SELECT t.* From veranstaltung t WHERE";
+        sql = "SELECT * FROM veranstaltung WHERE ";
         if ['vtype'] is None:
-            return #error
-        filled_slots = {'vtype'};
-        sql += "vtype == " + slots['vtype'];
+            dispatcher.utter_message("Vtype none")
+            return
+        #filled_slots = ['vtype'];
+        sql += "vtype == '" + slots['vtype'] + "' ";
         if slots['genre'] is not None:
-            sql += "AND genre == " + slots['genre'];
-            filled_slots.push('genre')
+            sql += " AND genre == '" + slots['genre'] + "' ";
+            #filled_slots.push('genre')
         if slots['time'] is not None:
             timesql = self.time_helper(slots['time'])
             print("timesql", timesql)
-            sql += "AND date == " + timesql;
-            filled_slots.push('time')
-        sql += "LIMIT 100;";
+            sql += " AND date == '" + timesql + "' ";
+            #filled_slots.push('time')
+
+        sql += " LIMIT 100;";
 
 
             #sql = "SELECT t.* From veranstaltung t WHERE date == slots['date'] AND genre == slots['genre'] AND vtype == slots['vtype'] LIMIT 100";
 
         ##TODO bei bedarf time_helper verwenden, um time sql zu bekommen
 
-        for s in sql:
-            dispatcher.utter_message("query string " + s)
-
+        #for s in sql:
+        dispatcher.utters_message("query string " + sql)
         ## TODO query gegen db ausführen
         be = Backend()
         res = be.eval(sql)
+        dispatcher.utters_message("res string " + res)
 
         ## TODO  ergebnisse als text-prompt ausgeben
         if len(res) == 0:
