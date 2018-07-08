@@ -26,7 +26,7 @@
 - Ich will heute noch [Sport](vtype) anschauen
 - Welche [Sportevent](vtype)Fussballspiele gibt es am Wochenende
 - Welche [Sportveranstaltungen](vtype) im Bereich [Fußball](genre) finden morgen statt
-- Wann findet das [Public Viewing](vtype) statt
+- Wann findet das [Viewing](vtype) statt
 - [Spiel](vtype) Alemania Aachen gegen St. Pauli
 - [Handballtournier](genre) am Wochenende
 - [Spielplan](vtype) [Handballjugend](genre)
@@ -36,8 +36,8 @@
 - Ich interessiere mich für [klassische](genre) [Konzerte](vtype)
 - Wann läuft [klassische](genre) [Musik](vtype)?
 - Ich habe Bock auf [rock](genre)!
-- [rock](genre) ist die beste Musik.
-- Die Beatles [rocken](genre)! Wann ist ihr nächstes Konzert?
+- [rock](genre) ist die beste [Musik](vtype).
+- Die Beatles [rocken](genre)! Wann ist ihr nächstes [Konzert](vtype)?
 - Welche [rock](genre) Bands spielen diesen Monat?
 - Ich möchte am Samstag [rock](genre) [Musik](vtype) hören.
 - Wie teuer sind die Tickets für das [pop](genre) [Konzert](vtype) von Rihanna?
@@ -47,13 +47,200 @@
 - [pop](genre) ist die beste [Musik](vtype)
 - Welches Thema hat die nächste [Kunst](genre) [Ausstellung](vtype)?
 - Ich möchte gerne eine [Messe](vtype) in der Stadt besuchen.
-- Wie finde ich die [Stadtgstadtgalerie](genre)
-- Gibt es [Automobil](genre) [Ausstellung](vtype) im Januar?
-- Ich möchte eine [Messe](vtype) über [Alte-Fahrzeug](genre) besuchen?
+- Wie finde ich die [Stadtgalerie](genre)
+- Gibt es [Fahrzeug](genre) [Ausstellung](vtype) im Dezember?
+- Ich möchte gerne eine [Ausstellung](vtype) über [Neue-Fahrzeug](genre) besuchen?
 - Machte der [Daimler](genre) gerade in der Stadt eine [Ausstellung](vtype)
-- Ich will nächste Woche eine [historische](genre) [Ausstellung](vtype) besuchen
-- Gibt es etwas über [Geschicht](genre) am Wochenende
+- Ich will nächste Monate eine [historische](genre) [Messe](vtype) besuchen
+- Gibt es etwas über [Historie](genre) am Wochenende
+- Was spielt Rihanna ihr nächstes [Musik](genre) ?
+- Ich habe Bock auf [pop](genre)!
+- [Rock](genre) ist die beste [Musik](vtype)
+- Welches Thema hat die nächste [pop](genre) [Konzert](vtype)?
+- Die Beatles [rocken](genre)! Wann ist ihr nächstes Konzert(vtype)?
+- Welche [rock](genre) Bands spielen diesen Monat?
+- Ich möchte am Samstag [rock](genre) [Musik](vtype) hören.
+- Welche [Sportevents](vtype) finden statt
+- Wann hat meine [Mannschaft](vtype) ihr erstes [Spiel](vtype)
+- Ich suche ein [Konzert](vtype) von Bob Marley im März
+- Steht diese Woche ein [Konzert](vtype) von Rihanna an?
+- Finden in nächster Zeit ein [Sportevent](vtype) statt
+- Ist diesen Monat ein [rock](genre) [Festival](vtype)?
+- Ich will auf ein [Festival](vtype)
+- Wo ist nächste [Festival](vtype)?
+- Gibt es [klassische](genre)[Festival](vtype)?
+- Ich möchte auf ein [pop](genre)[Festival](vtype)!
+- Gibt es ein [Festival](vtype) in meiner Nähe?
+- Suche mir bitte ein [rock](genre) [Festival](vtype).
+- Ich interessiere mich für [Teamsport](vtype) im September
+- Kannst du mir eine [Musik](genre) Band von USA empfehlen
+- Machte der [Audi](genre) gerade in der Stadt eine [Messe](vtype)
+- Welche [Festival](genre) es gibt am Wochenende
+- Ist dieses Wochenende ein [Handballturnier](genre)?
+- Kann ich dieses Wochenende auf ein [Handballturnier](genre) gehen?
+- Wo ist das nächste [Handballturnier](genre)?
+- ich möchte mir gerne ein [Handballturnier](genre) anschauen
+- Spielen die bösen Jungs ein [Handballturnier](genre)?
+- Suche mir das [Handballturnier](genre) der Bösen Jungs
+- Spielen die Bösen Jungs diesen Monat noch ein [Handballjugend](genre)?
+- Kann ich dieses Wochenende auf ein [Handballjugend](genre) gehen?
+- Wo ist das nächste [Handballjugend](genre)?
+- ich möchte mir gerne ein [Handballjugend](genre) anschauen
+- Spielen die bösen Jungs ein [Handballjugend](genre)?
+- Suche mir das [Handballjugend](genre) der Bösen Jungs
+- Spielen die Bösen Jungs diesen Monat noch ein [Handballjugend](genre)?
+- Wie findest du das [Teamevent](genre)?
+- Kannst du mir das [Spielplan](genre) zeigen?
+- Machst du diese [Volleyballmannschaft](genre)?
+- Was kommt nach dem [Teamevent](genre)?
 
+- Welche [Konzerte](vtype) gibt es in den nächste zwei Wochen?
+- Welche [rock](genre) [Konzerte](vtype) gibt es?
+- Wann ist das nächste [Konzerte](vtype)?
+- Ich will heute noch [Sport](vtype) anschauen
+- Welche [Sportevent](vtype)Fussballspiele gibt es am Wochenende
+- Welche [Sportveranstaltungen](vtype) im Bereich [Fußball](genre) finden morgen statt
+- Wann findet das [Viewing](vtype) statt
+- [Spiel](vtype) Alemania Aachen gegen St. Pauli
+- [Handballtournier](genre) am Wochenende
+- [Spielplan](vtype) [Handballjugend](genre)
+- Welche [Volleyballmannschaft](vtype) [spielt](genre) von Montag bis Freitag
+- Wann [spielt](vtpye) meine lieblings [Mannschaft](vtype)
+- Welche [klassischen](genre)[Konzerte](vtype) finden am kommenden Sonntag statt?
+- Ich interessiere mich für [klassische](genre) [Konzerte](vtype)
+- Wann läuft [klassische](genre) [Musik](vtype)?
+- Ich habe Bock auf [rock](genre)!
+- [rock](genre) ist die beste [Musik](vtype).
+- Die Beatles [rocken](genre)! Wann ist ihr nächstes [Konzert](vtype)?
+- Welche [rock](genre) Bands spielen diesen Monat?
+- Ich möchte am Samstag [rock](genre) [Musik](vtype) hören.
+- Wie teuer sind die Tickets für das [pop](genre) [Konzert](vtype) von Rihanna?
+- Wann spiel Rihanna ein [pop](genre) [Konzert](vtype)?
+- Wo spielt Rihanna ihr nächstes [pop](genre) [Konzert](vtype)?
+- Ich habe Bock auf [pop](genre)!
+- [pop](genre) ist die beste [Musik](vtype)
+- Welches Thema hat die nächste [Kunst](genre) [Ausstellung](vtype)?
+- Ich möchte gerne eine [Messe](vtype) in der Stadt besuchen.
+- Wie finde ich die [Stadtgalerie](genre)
+- Gibt es [Fahrzeug](genre) [Ausstellung](vtype) im Dezember?
+- Ich möchte gerne eine [Ausstellung](vtype) über [Neue-Fahrzeug](genre) besuchen?
+- Machte der [Daimler](genre) gerade in der Stadt eine [Ausstellung](vtype)
+- Ich will nächste Monate eine [historische](genre) [Messe](vtype) besuchen
+- Gibt es etwas über [Historie](genre) am Wochenende
+- Was spielt Rihanna ihr nächstes [Musik](genre) ?
+- Ich habe Bock auf [pop](genre)!
+- [Rock](genre) ist die beste [Musik](vtype)
+- Welches Thema hat die nächste [pop](genre) [Konzert](vtype)?
+- Die Beatles [rocken](genre)! Wann ist ihr nächstes Konzert(vtype)?
+- Welche [rock](genre) Bands spielen diesen Monat?
+- Ich möchte am Samstag [rock](genre) [Musik](vtype) hören.
+- Welche [Sportevents](vtype) finden statt
+- Wann hat meine [Mannschaft](vtype) ihr erstes [Spiel](vtype)
+- Ich suche ein [Konzert](vtype) von Bob Marley im März
+- Steht diese Woche ein [Konzert](vtype) von Rihanna an?
+- Finden in nächster Zeit ein [Sportevent](vtype) statt
+- Ist diesen Monat ein [rock](genre) [Festival](vtype)?
+- Ich will auf ein [Festival](vtype)
+- Wo ist nächste [Festival](vtype)?
+- Gibt es [klassische](genre)[Festival](vtype)?
+- Ich möchte auf ein [pop](genre)[Festival](vtype)!
+- Gibt es ein [Festival](vtype) in meiner Nähe?
+- Suche mir bitte ein [rock](genre) [Festival](vtype).
+- Ich interessiere mich für [Teamsport](vtype) im September
+- Kannst du mir eine [Musik](genre) Band von USA empfehlen
+- Machte der [Audi](genre) gerade in der Stadt eine [Messe](vtype)
+- Welche [Festival](genre) es gibt am Wochenende
+- Ist dieses Wochenende ein [Handballturnier](genre)?
+- Kann ich dieses Wochenende auf ein [Handballturnier](genre) gehen?
+- Wo ist das nächste [Handballturnier](genre)?
+- ich möchte mir gerne ein [Handballturnier](genre) anschauen
+- Spielen die bösen Jungs ein [Handballturnier](genre)?
+- Suche mir das [Handballturnier](genre) der Bösen Jungs
+- Spielen die Bösen Jungs diesen Monat noch ein [Handballjugend](genre)?
+- Kann ich dieses Wochenende auf ein [Handballjugend](genre) gehen?
+- Wo ist das nächste [Handballjugend](genre)?
+- ich möchte mir gerne ein [Handballjugend](genre) anschauen
+- Spielen die bösen Jungs ein [Handballjugend](genre)?
+- Suche mir das [Handballjugend](genre) der Bösen Jungs
+- Spielen die Bösen Jungs diesen Monat noch ein [Handballjugend](genre)?
+- Wie findest du das [Teamevent](genre)?
+- Kannst du mir das [Spielplan](genre) zeigen?
+- Machst du diese [Volleyballmannschaft](genre)?
+- Was kommt nach dem [Teamevent](genre)?
+
+- Welche [Konzerte](vtype) gibt es in den nächste zwei Wochen?
+- Welche [rock](genre) [Konzerte](vtype) gibt es?
+- Wann ist das nächste [Konzerte](vtype)?
+- Ich will heute noch [Sport](vtype) anschauen
+- Welche [Sportevent](vtype)Fussballspiele gibt es am Wochenende
+- Welche [Sportveranstaltungen](vtype) im Bereich [Fußball](genre) finden morgen statt
+- Wann findet das [Viewing](vtype) statt
+- [Spiel](vtype) Alemania Aachen gegen St. Pauli
+- [Handballtournier](genre) am Wochenende
+- [Spielplan](vtype) [Handballjugend](genre)
+- Welche [Volleyballmannschaft](vtype) [spielt](genre) von Montag bis Freitag
+- Wann [spielt](vtpye) meine lieblings [Mannschaft](vtype)
+- Welche [klassischen](genre)[Konzerte](vtype) finden am kommenden Sonntag statt?
+- Ich interessiere mich für [klassische](genre) [Konzerte](vtype)
+- Wann läuft [klassische](genre) [Musik](vtype)?
+- Ich habe Bock auf [rock](genre)!
+- [rock](genre) ist die beste [Musik](vtype).
+- Die Beatles [rocken](genre)! Wann ist ihr nächstes [Konzert](vtype)?
+- Welche [rock](genre) Bands spielen diesen Monat?
+- Ich möchte am Samstag [rock](genre) [Musik](vtype) hören.
+- Wie teuer sind die Tickets für das [pop](genre) [Konzert](vtype) von Rihanna?
+- Wann spiel Rihanna ein [pop](genre) [Konzert](vtype)?
+- Wo spielt Rihanna ihr nächstes [pop](genre) [Konzert](vtype)?
+- Ich habe Bock auf [pop](genre)!
+- [pop](genre) ist die beste [Musik](vtype)
+- Welches Thema hat die nächste [Kunst](genre) [Ausstellung](vtype)?
+- Ich möchte gerne eine [Messe](vtype) in der Stadt besuchen.
+- Wie finde ich die [Stadtgalerie](genre)
+- Gibt es [Fahrzeug](genre) [Ausstellung](vtype) im Dezember?
+- Ich möchte gerne eine [Ausstellung](vtype) über [Neue-Fahrzeug](genre) besuchen?
+- Machte der [Daimler](genre) gerade in der Stadt eine [Ausstellung](vtype)
+- Ich will nächste Monate eine [historische](genre) [Messe](vtype) besuchen
+- Gibt es etwas über [Historie](genre) am Wochenende
+- Was spielt Rihanna ihr nächstes [Musik](genre) ?
+- Ich habe Bock auf [pop](genre)!
+- [Rock](genre) ist die beste [Musik](vtype)
+- Welches Thema hat die nächste [pop](genre) [Konzert](vtype)?
+- Die Beatles [rocken](genre)! Wann ist ihr nächstes Konzert(vtype)?
+- Welche [rock](genre) Bands spielen diesen Monat?
+- Ich möchte am Samstag [rock](genre) [Musik](vtype) hören.
+- Welche [Sportevents](vtype) finden statt
+- Wann hat meine [Mannschaft](vtype) ihr erstes [Spiel](vtype)
+- Ich suche ein [Konzert](vtype) von Bob Marley im März
+- Steht diese Woche ein [Konzert](vtype) von Rihanna an?
+- Finden in nächster Zeit ein [Sportevent](vtype) statt
+- Ist diesen Monat ein [rock](genre) [Festival](vtype)?
+- Ich will auf ein [Festival](vtype)
+- Wo ist nächste [Festival](vtype)?
+- Gibt es [klassische](genre)[Festival](vtype)?
+- Ich möchte auf ein [pop](genre)[Festival](vtype)!
+- Gibt es ein [Festival](vtype) in meiner Nähe?
+- Suche mir bitte ein [rock](genre) [Festival](vtype).
+- Ich interessiere mich für [Teamsport](vtype) im September
+- Kannst du mir eine [Musik](genre) Band von USA empfehlen
+- Machte der [Audi](genre) gerade in der Stadt eine [Messe](vtype)
+- Welche [Festival](genre) es gibt am Wochenende
+- Ist dieses Wochenende ein [Handballturnier](genre)?
+- Kann ich dieses Wochenende auf ein [Handballturnier](genre) gehen?
+- Wo ist das nächste [Handballturnier](genre)?
+- ich möchte mir gerne ein [Handballturnier](genre) anschauen
+- Spielen die bösen Jungs ein [Handballturnier](genre)?
+- Suche mir das [Handballturnier](genre) der Bösen Jungs
+- Spielen die Bösen Jungs diesen Monat noch ein [Handballjugend](genre)?
+- Kann ich dieses Wochenende auf ein [Handballjugend](genre) gehen?
+- Wo ist das nächste [Handballjugend](genre)?
+- ich möchte mir gerne ein [Handballjugend](genre) anschauen
+- Spielen die bösen Jungs ein [Handballjugend](genre)?
+- Suche mir das [Handballjugend](genre) der Bösen Jungs
+- Spielen die Bösen Jungs diesen Monat noch ein [Handballjugend](genre)?
+- Wie findest du das [Teamevent](genre)?
+- Kannst du mir das [Spielplan](genre) zeigen?
+- Machst du diese [Volleyballmannschaft](genre)?
+- Was kommt nach dem [Teamevent](genre)?
 
 ## synonym:Konzert
 - Konzerte
@@ -68,12 +255,12 @@
 
 ## synonym:Volleyball
 - Volleyballmannschaft
-- Beach Volleyball
+- Beach
 - Beachen
 
 ## synonym:Sportevent
 - Sportveranstaltungen
-- Public Viewing
+- Viewing
 - Spiel
 - Spielplan
 - Sport
