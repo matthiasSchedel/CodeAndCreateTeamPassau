@@ -4,7 +4,7 @@ import sqlite3
 class Backend():
     def __init__(self):
         ## datenbank datei name
-        self.dbfile = "backend\pveranstaltung.db"
+        self.dbfile = "backend/pveranstaltung.db"
 
     def eval(self,sql,params=(),doprint=True):
         ## führt sql aus und liefert ergebnisse zurück
@@ -22,12 +22,9 @@ class Backend():
         ## tear down, create, and populate database
         conn = sqlite3.connect(self.dbfile)
         cursor = conn.cursor()
-        ## TODO einkommentieren und fertig implementieren
         print("SETTING up database")
         cursor.execute("DROP TABLE IF EXISTS veranstaltung")
-        ## TODO datenbank felder definieren und db erzeugen
-        cursor.execute("""CREATE TABLE veranstaltung (name text, vtype text, genre text, date text)""")
-        ## TODO db mit beispieldaten befüllen
+        cursor.execute("CREATE TABLE veranstaltung (name text, vtype text, genre text, date date)")
         cursor.execute("INSERT INTO veranstaltung VALUES('Rihanna', 'Konzert', 'Pop', '2018-07-08')")
         cursor.execute("INSERT INTO veranstaltung VALUES ('Metallica','Konzert','Rock','2018-02-08')")
 
@@ -35,7 +32,7 @@ class Backend():
 
         cursor.execute("INSERT INTO veranstaltung VALUES('Die Toten Hosen', 'Konzert', 'Rock', '2018-12-08')")
 
-        cursor.execute("INSERT INTO veranstaltung VALUES('Bob Marley Open Air', 'Konzert', 'Klassisch', '2018-06-012')")
+        cursor.execute("INSERT INTO veranstaltung VALUES('Bob Marley Open Air', 'Konzert', 'Klassisch', '2018-06-12')")
 
         conn.commit()
         ## einkommentieren, um db zu kontrollieren wenn erwünscht

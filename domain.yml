@@ -73,4 +73,5 @@ templates:
     - "Hier kannst du alle Veranstaltungen sehen, die ich für dich gefunden habe: "
 
   utter_result:
-    - "-- {name}  vom {vtype} am {time} vom {genre}"
+    - "-- Ein {genre} {vtype} von {name} am {time}"
+
